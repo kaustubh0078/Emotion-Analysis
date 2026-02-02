@@ -36,6 +36,7 @@ secrets.toml
 data/
 *.txt
 *.csv
+!requirements.txt
 # If you specifically want to track the current dataset (1.6MB is likely safe, but removing just in case you add more)
 # !data/train.txt
 
