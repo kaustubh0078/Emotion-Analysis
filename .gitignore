@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Streamlit
+.streamlit/
+secrets.toml
+
+# IDEs
+.vscode/
+.idea/
+
+# Dataset - Ignoring to prevent large file commits (Shadow Ban protection)
+data/
+*.txt
+*.csv
+# If you specifically want to track the current dataset (1.6MB is likely safe, but removing just in case you add more)
+# !data/train.txt
+
+# OS Generated
+.DS_Store
+Thumbs.db
