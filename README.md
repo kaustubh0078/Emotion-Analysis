@@ -1,6 +1,9 @@
 # Emotion Analysis App
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kaustubh0078-emotion-analysis-appapp-pbtaeg.streamlit.app/)
 
 A Streamlit application that detects emotions from text using a Logistic Regression model trained on emotion datasets.
+
+[**👉 Try the Live App Here**](https://kaustubh0078-emotion-analysis-appapp-pbtaeg.streamlit.app/)
 
 ## 📂 Project Structure
 
